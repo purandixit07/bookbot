@@ -5,6 +5,7 @@ Here is what the report will look like.
 77986 words found in the document
 
 The 'e' character was found 46043 times
+
 The 't' character was found 30365 times
 The 'a' character was found 26743 times
 The 'o' character was found 25225 times
