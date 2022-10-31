@@ -1,7 +1,9 @@
 # bookbot
 In this project, we are aggregating all the word and character data into a report that we can print to the console.
 Here is what the report will look like.
+
 --- Begin report of bookbot/books/frankenstein.txt ---
+
 77986 words found in the document
 
 The 'e' character was found 46043 times
